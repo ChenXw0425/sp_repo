@@ -1,9 +1,7 @@
 package cn.tedu.sp01.pojo;
 
 public class Item {
-	//321
-	//6666yy
-	//王雨晨这里是
+	
 	private Integer id;
 	private String name;
 	private Integer number;
